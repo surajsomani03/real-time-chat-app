@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+# This project ia about real time chat. This is the the frontEnd structure. I will later on add firebase file... And complete the project...
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
